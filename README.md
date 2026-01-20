@@ -40,7 +40,7 @@ You can create titles and subtitles using the `#` symbol.
 
 
 
-md
+
 
 # Big title
 
@@ -68,7 +68,7 @@ md
 
 **Bullet list example:**
 
-```md
+
 - Item 1
 - Item 2
 
@@ -76,7 +76,7 @@ md
 
 &nbsp; - Another sub-item
 
-```
+
 
 
 
@@ -84,7 +84,6 @@ md
 
 
 
-```md
 
 1. First item
 
@@ -92,7 +91,6 @@ md
 
 3. Third item
 
-```
 
 
 
