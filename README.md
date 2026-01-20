@@ -170,8 +170,6 @@ function hello() {
 
 
 
-```md
-
 | Name  | Age | City     |
 
 |-------|-----|----------|
@@ -180,7 +178,6 @@ function hello() {
 
 | Maria | 30  | London   |
 
-```
 
 
 
