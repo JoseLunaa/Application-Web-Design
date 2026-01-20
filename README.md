@@ -100,13 +100,8 @@ You can create titles and subtitles using the `#` symbol.
 
 ### How to add links
 
-
-
-```md
-
 [GitHub](https://github.com)
 
-```
 
 
 
