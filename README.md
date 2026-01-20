@@ -40,7 +40,7 @@ You can create titles and subtitles using the `#` symbol.
 
 
 
-```md
+md
 
 # Big title
 
@@ -48,7 +48,7 @@ You can create titles and subtitles using the `#` symbol.
 
 ### Smaller title
 
-```
+
 
 ---
 
