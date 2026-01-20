@@ -171,11 +171,8 @@ function hello() {
 
 
 | Name  | Age | City     |
-
 |-------|-----|----------|
-
 | John  | 25  | New York |
-
 | Maria | 30  | London   |
 
 
